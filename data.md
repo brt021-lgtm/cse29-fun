@@ -19,3 +19,5 @@ I like chicken too.
 print '3 backticks or'
 print 'indent 4 spaces'
 ```
+
+![a very cute dog](./images/dog.png)
